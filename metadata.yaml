@@ -1,6 +1,9 @@
 _repo: Fifty-Years-in-the-Church-of-Rome_51634
 _version: 0.1.0
 alternative_title: 50 Years in the Church of Rome
+covers:
+- cover_type: archival
+  image_path: 51634-h/images/cover.jpg
 creator:
   author:
     agent_name: Chiniquy, Charles Paschal Telesphore
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '9093'
     url: http://www.gutenberg.org/2009/agents/9093
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51634#Fifty-Years-in-the-Church-of-Rome
 gutenberg_issued: '2016-04-02'
 gutenberg_type: Text
 identifiers:
